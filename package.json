@@ -20,5 +20,10 @@
   "homepage": "https://github.com/fouad-11/foua#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.12.9"
   }
 }
